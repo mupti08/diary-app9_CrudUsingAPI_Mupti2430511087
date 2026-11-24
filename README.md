@@ -1,4 +1,4 @@
-# Praktikum Mobile Programming — Pertemuan 9 (CRUD Diary App)
+# Praktikum Mobile Programming Pertemuan 9 (CRUD Diary App)
 
 Aplikasi pencatatan harian (*Diary App*) berbasis React Native (Expo Router) dan Redux Toolkit yang terintegrasi dengan REST API Node.js, Express.js, dan database MySQL.
 
